@@ -1,0 +1,24 @@
+.base {
+  display: flex;
+
+  align-items: center;
+  align-items: flex-end;
+  align-items: flex-start;
+
+  justify-content: space-around;
+  justify-content: space-between;
+  justify-content: space-evenly;
+  justify-content: center;
+
+  flex-direction: column;
+  flex-direction: column-reverse;
+  flex-direction: row;
+  flex-direction: row-reverse;
+}
+
+.fccc {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
